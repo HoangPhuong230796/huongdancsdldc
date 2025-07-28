@@ -1,8 +1,10 @@
 title: Hướng dẫn sử dụng CSDL dùng chung
 description: Tài liệu hướng dẫn sử dụng ứng dụng Power Apps
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
-# Navigation structure
+plugins:
+  - jekyll-remote-theme
+
 collections:
   docs:
     output: true
