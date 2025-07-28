@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Lỗi thường gặp
 parent: TÀI LIỆU
 nav_order: 3
