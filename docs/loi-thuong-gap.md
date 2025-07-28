@@ -1,6 +1,6 @@
 ---
 title: Lỗi thường gặp
-parent: Tài liệu
+parent: TÀI LIỆU
 nav_order: 3
 ---
 
