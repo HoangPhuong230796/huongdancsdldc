@@ -14,5 +14,5 @@ collections:
 just_the_docs:
   collections:
     docs:
-      name: Tài liệu
+      name: TÀI LIỆU
       nav_fold: true
