@@ -1,0 +1,15 @@
+title: Hướng dẫn sử dụng CSDL dùng chung
+description: Tài liệu hướng dẫn sử dụng ứng dụng Power Apps
+theme: just-the-docs
+
+# Navigation structure
+collections:
+  docs:
+    output: true
+    permalink: /:path/
+
+just_the_docs:
+  collections:
+    docs:
+      name: Tài liệu
+      nav_fold: true
