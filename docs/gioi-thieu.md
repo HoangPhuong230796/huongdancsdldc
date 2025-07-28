@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Giới thiệu
 parent: TÀI LIỆU
 nav_order: 1
