@@ -1,5 +1,6 @@
 title: Hướng dẫn sử dụng CSDL dùng chung
 description: Tài liệu hướng dẫn sử dụng ứng dụng Power Apps
+
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
@@ -13,5 +14,5 @@ collections:
 just_the_docs:
   collections:
     docs:
-      name: Tài liệu
+      name: TÀI LIỆU
       nav_fold: true
