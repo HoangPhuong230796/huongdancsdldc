@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Thiết bị tổ máy
 parent: TÀI LIỆU
 nav_order: 2
