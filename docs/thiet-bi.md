@@ -1,6 +1,6 @@
 ---
 title: Thiết bị tổ máy
-parent: Tài liệu
+parent: TÀI LIỆU
 nav_order: 2
 ---
 
