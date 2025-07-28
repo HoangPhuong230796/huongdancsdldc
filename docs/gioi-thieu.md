@@ -1,6 +1,6 @@
 ---
 title: Giới thiệu
-parent: Tài liệu
+parent: TÀI LIỆU
 nav_order: 1
 ---
 
